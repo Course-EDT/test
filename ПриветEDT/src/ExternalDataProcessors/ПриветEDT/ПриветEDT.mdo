@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="1ada05e7-519b-474c-9689-05a0de6784f7">
+  <producedTypes>
+    <objectType typeId="6b942fd2-531d-4a3a-9d5a-58e312d222b8" valueTypeId="8483a650-45ba-4681-a540-b4a8ca6ef6e4"/>
+  </producedTypes>
+  <name>ПриветEDT</name>
+  <synonym>
+    <key>ru</key>
+    <value>Привет EDT</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="e300582b-181b-411b-a7d3-d5f2df8dd004"/>
+  <defaultForm>ExternalDataProcessor.ПриветEDT.Form.Форма</defaultForm>
+  <forms uuid="b56539d9-eaf0-4911-b02d-81ec82336b32">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:ExternalDataProcessor>
